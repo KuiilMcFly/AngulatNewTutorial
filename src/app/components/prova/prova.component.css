@@ -7,4 +7,9 @@
 .header .header-pages {
   display: flex;
   gap: 30px;
+  align-items: center;
+}
+.header .header-pages a {
+  color: white;
+  text-decoration: none;
 }/*# sourceMappingURL=prova.component.css.map */
