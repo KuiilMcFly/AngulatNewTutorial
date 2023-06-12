@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(58, 58, 210);
+  color: white;
+}
+.header .header-pages {
+  display: flex;
+  gap: 30px;
+}/*# sourceMappingURL=prova.component.css.map */
