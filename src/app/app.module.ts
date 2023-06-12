@@ -11,6 +11,7 @@ import {MatCardModule} from '@angular/material/card';
 import {MatButtonModule} from '@angular/material/button';
 import { LoginPagesComponent } from './pages/login-pages/login-pages.component';
 import { HomeComponent } from './pages/home/home.component';
+import { LoginFormComponent } from './components/login-form/login-form.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,6 +19,7 @@ import { HomeComponent } from './pages/home/home.component';
     BannerComponent,
     LoginPagesComponent,
     HomeComponent,
+    LoginFormComponent,
   ],
   imports: [
     BrowserModule,
